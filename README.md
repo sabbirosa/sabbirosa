@@ -55,8 +55,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=sabbirosa&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
-  <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirosa&theme=react&hide_border=true" alt=""/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=sabbirosa&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirosa&theme=react&hide_border=true" alt=""/>
   <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirosa&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
 </div>
 <br/>
