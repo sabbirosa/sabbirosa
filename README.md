@@ -1,54 +1,66 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-- I'm Sabbir Bin Abdul Latif
-- A student of Computer Science
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Sabbir+Bin+Abdul+Latif!;" />
+</h1>
 
-<!--- Interests -->
-### Interests
-- Programming
-- Software Engineering
+<h3 align="center">A passionate Web Developer from Dhaka 🇧🇩</h3>
 
-### Experiences
-- Python
-- JavaScript
-- TypeScript
-- C
+<br/>
 
-### Web Frameworks
-- Django
-- React
-
-<!-- Github Stats -->
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
-
-![Sabbir's github stats](https://github-readme-stats.vercel.app/api?username=sabbirosa&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-
-<h2>
-    Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
-</h2>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirosa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-### My GitHub Streak and contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sabbirosa)](https://git.io/streak-stats)
-
-
-
-
-<!-- Connect with me -->
 <div align="center">
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirosa&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirosa" align="left"/></span>
+ 
+ 🔭 I’m currently working on **marketplaces**
+ 
+ 🌱 I’m currently learning **Django, React, Next.js**
+
+💬 Ask me about **Python, JavaScript, Flask... or anything [here](https://github.com/sabbirosa/sabbirosa/issues)**
+
+⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hello@sabbir.co">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/sabbirosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://sabbir.co" target="_blank">
+   <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
 </div>
-<h2>
-    Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
-</h2>  
-<a href="https://twitter.com/sabbirosa" rel="nofollow">
-<img align="left" alt="sabbirosa" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" style="max-width: 100%;">
-</a>
-<a href="https://www.hackerrank.com/sabbirosa" rel="nofollow">
-  <img align="left" alt="Sabbir's HackerRank" width="25px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/hackerrank.svg" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/sabbirosa/" rel="nofollow">
-  <img align="left" alt="Sabbir Bin Abdul Latif" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" style="max-width: 100%;">
-</a>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbirosa/sabbirosa/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
