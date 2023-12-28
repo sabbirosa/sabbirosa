@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Sabbir+Bin+Abdul+Latif!;" />
 </h1>
 
-<h3 align="center">A passionate Web Developer from Dhaka 🇧🇩</h3>
+<h3 align="center">An aspiring Software Engineer from Dhaka 🇧🇩</h3>
 
 <br/>
 
@@ -60,4 +60,7 @@
   <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirosa&theme=react&show_icons=true&hide_border=true&layout=donut" alt=""/>
 </div>
 <br/>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabbirosa.sabbirosa" />
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sabbirosa&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
