@@ -8,18 +8,18 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **marketplaces**
+ 👨🏻‍💻 I’m currently working on **Club Management Project**
  
- 🌱 I’m currently learning **Django, React, Next.js**
+ 📖 I’m currently learning **Software Engineering Fundamentals**
+ 
+ 🙋🏻‍♂️ Ask me about **Python, JavaScript, Flask... or anything [here](https://github.com/sabbirosa/sabbirosa/issues)**
 
-💬 Ask me about **Python, JavaScript, Flask... or anything [here](https://github.com/sabbirosa/sabbirosa/issues)**
-
-⚡ Fun fact **The first computer “bug” was an actual real-life bug**
+ 🫨 Fun fact **The first computer “bug” was an actual real-life bug**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:hello@sabbir.co">
+  <a href="mailto:hello@sabbir.co" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/sabbirosa" target="_blank">
@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
@@ -43,16 +43,15 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions ✅</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sabbirosa/sabbirosa/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
 <br/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats 📊</h2>
 <br>
 <div align=center>
   <img width=500 src="https://github-readme-stats.vercel.app/api?username=sabbirosa&theme=react&show_icons=true&hide_border=true&count_private=true" alt=""/>
