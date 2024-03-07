@@ -50,7 +50,6 @@
 </div>
 
 <hr/>
-<br/>
 <h2 align="center">My Stats 📊</h2>
 <br>
 <div align=center>
