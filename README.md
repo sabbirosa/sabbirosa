@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 👨🏻‍💻 I’m currently working on **Club Management Project**
+ 👨🏻‍💻 I’m currently working on an **AI Healthcare Application**
  
  📖 I’m currently learning **Software Engineering Fundamentals**
  
